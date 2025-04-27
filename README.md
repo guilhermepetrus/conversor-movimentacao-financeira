@@ -85,8 +85,8 @@ conversor-movimentacao-financeira/
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por **Guilherme Petrus - Desenvolvedor de Software**. 🚀
+Desenvolvido por **Guilherme Petrus - Desenvolvedor de Software**.
 
 ---
 
-# 🏆 Qualidade e eficiência! 🚀✨
+# 🏆 Qualidade e eficiência!
